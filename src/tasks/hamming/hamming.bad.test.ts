@@ -1,7 +1,7 @@
 /* eslint-disable max-nested-callbacks */
 /* eslint-disable max-lines-per-function */
 import { HammingCalculator } from './hamming_bad';
-//import { HammingCalculator } from './hamming_ok';
+// import { HammingCalculator } from './hamming_ok';
 
 /*
 FEATURE:    Calculate the Hamming Distance between two DNA strands.
